@@ -13,7 +13,5 @@
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.8.1/g' package/base-files/files/bin/config_generate
 
-#增加软件商店
-# git clone https://github.com/linkease/istore-ui package/istore-ui
-# git clone https://github.com/linkease/istore package/luci-app-istore
+
 
