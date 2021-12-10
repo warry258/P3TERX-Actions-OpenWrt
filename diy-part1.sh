@@ -20,4 +20,4 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 #增加额外插件
 # git clone https://github.com/linkease/istore-ui package/istore-ui
 # git clone https://github.com/linkease/istore package/luci-app-istore
-# git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
