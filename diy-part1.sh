@@ -17,6 +17,7 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-#增加软件商店
+#增加额外插件
 # git clone https://github.com/linkease/istore-ui package/istore-ui
 # git clone https://github.com/linkease/istore package/luci-app-istore
+# git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
